@@ -814,7 +814,7 @@ const Portfolio = () => {
             </a>
             <a href="https://www.instagram.com/amir.sakib.92?igsh=MWw4bHR6ZzhwMzJ4MQ%3D%3D&utm_source=qr" className="contact-card" target="_blank" rel="noopener noreferrer">
               <Instagram />
-              <span>Instagram</span>
+              <span>Instagram Account</span>
             </a>
           </div>
         </div>
